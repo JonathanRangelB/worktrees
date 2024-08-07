@@ -7,7 +7,7 @@
   - [segundos pasos](#segundos-pasos)
     - [esto es totalmente opcional](#esto-es-totalmente-opcional)
   - [tercer paso](#tercer-paso)
-  - [la guerra](#la-guerra)
+  - [la guerra](#la-guerra) - [un ultimo cambio](#un-ultimo-cambio)
   <!--toc:end-->
 
 Esto es un documento de solo lectura
