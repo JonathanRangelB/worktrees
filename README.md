@@ -19,6 +19,13 @@ Esto es un documento de solo lectura
 
 ## segundos pasos
 
+> [!CAUTION]
+> Tienes que cuidarte del temach
+
+- [ ] primera opcion
+- [x] primera opcion
+- [-] primera opcion
+
 aqui deberia de ir algo relacionado al repositorio
 
 ### esto es totalmente opcional
@@ -26,6 +33,20 @@ aqui deberia de ir algo relacionado al repositorio
 un paso mal dado
 
 ## tercer paso
+
+| ID  | Nombre                     |         Ocupación |
+| :-: | :------------------------- | ----------------: |
+| 34  | Jonathan rangel            |         Developer |
+| 34  | Jonathan ignacio           |          Contador |
+| 34  | Jonathan oracio villalobos |        Agricultor |
+| 34  | Orlando Berrones           | Artesano plastico |
+| 34  | [Link](/test)              | Artesano plastico |
+
+| Opciones |
+| :------: |
+|  Item1   |
+|  Item2   |
+|  Item3   |
 
 ha me cai, hahahaha
 
@@ -38,3 +59,34 @@ jajajaja
 
 solo para testear git
 aquí va algo para la gente bonita
+
+#### ultimo de lo ultimo
+
+- [x] imaginacion
+- [] algo
+
+---
+
+![imagen](/test)
+
+> [!NOTE]
+> nota
+
+> [!TIP]
+> puntita
+
+> [!IMPORTANT]
+> importante
+
+> [!WARNING]
+> guarning
+
+> [!CAUTION]
+> peligro
+
+`console.log('hola')`
+
+```js
+import React from "react";
+import ReactDOM from "react-dom";
+```
