@@ -7,7 +7,10 @@
   - [segundos pasos](#segundos-pasos)
     - [esto es totalmente opcional](#esto-es-totalmente-opcional)
   - [tercer paso](#tercer-paso)
-  - [la guerra](#la-guerra) - [un ultimo cambio](#un-ultimo-cambio)
+  - [la guerra](#la-guerra)
+    - [un ultimo cambio](#un-ultimo-cambio)
+      - [ultimo de lo ultimo](#ultimo-de-lo-ultimo)
+  - [Instruciones de uso](#instruciones-de-uso)
   <!--toc:end-->
 
 Esto es un documento de solo lectura
@@ -90,3 +93,8 @@ aquí va algo para la gente bonita
 import React from "react";
 import ReactDOM from "react-dom";
 ```
+
+## Instruciones de uso
+
+1. baja el repo
+2. ejecuta el repo
